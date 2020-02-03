@@ -1,0 +1,2130 @@
+PDF Viewer
+Cancel
+Download file
+Download
+This document is password protected. Please enter a password.
+File Corrupted
+The file is corrupted and cannot be opened.
+Fit Page
+Fit Width
+Automatic
+Show first page
+Incorrect Password. Please try again.
+Show next page
+OK
+Open file
+Current page number
+Show previous page
+Show last page
+Zoom
+Zoom in
+Zoom out
+Page thumbnails
+Bookmarks
+Print file
+Password Required
+Copy
+Text selection tool
+Pan mode
+Find text
+Find in document
+Match case
+Apply
+Go to Page
+Viewer has finished searching the document. No more matches were found
+No Text Found
+Undo
+Redo
+Add or Edit annotations
+Highlight Text
+Underline Text
+Strikethrough Text
+Delete annotation
+Opacity
+Change Color
+Change Opacity
+Highlight
+Underline
+Strike through
+Web-service is not listening. PDF Viewer depends on web-service for all it's features. Please start the web service to continue.
+Open
+First Page
+Previous Page
+Next Page
+Last Page
+Zoom In
+Zoom Out
+Selection
+Pan
+Print
+Search
+Edit Annotation
+Line Thickness
+Line Properties
+Start Arrow
+End Arrow
+Line Style
+Fill Color
+Line Color
+None
+Open
+Closed
+Round
+Square
+Diamond
+Cut
+Paste
+Delete
+Properties
+Add Stamp
+Add Shapes
+Change Stroke Color
+Change Border Thickness
+Add Line
+Add Arrow
+Add Rectangle
+Add Circle
+Add Polygon
+Add Comments
+Comments
+No Comments Yet
+Accepted
+Completed
+Cancelled
+Rejected
+Leader Length
+Scale Ratio
+Calibrate
+Calibrate Distance
+Calibrate Perimeter
+Calibrate Area
+Calibrate Radius
+Calibrate Volume
+No records to display
+ID
+Name
+Start Date
+End Date
+Duration
+Progress
+Dependency
+Notes
+Baseline Start Date
+Baseline End Date
+Type
+Offset
+Resources
+Resource ID
+day
+hour
+minute
+days
+hours
+minutes
+General
+Custom Columns
+Write Notes
+New Task
+Task Information
+Save
+Add
+Edit
+Update
+Delete
+Cancel
+Search
+ task
+ tasks
+Zoom in
+Zoom out
+Zoom to fit
+Excel export
+CSV export
+Expand all
+Collapse all
+Next timespan
+Previous timespan
+Ok
+Are you sure you want to Delete Record?
+From
+To
+Task Link
+Lag
+Start
+Finish
+Enter the value
+You moved '{0}' to start before '{1}' finishes and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' away from '{1}' and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' to start before '{1}' starts and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' to start after '{1}' starts and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' to finish before '{1}' finishes and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' to finish after '{1}' finishes and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' away from '{1}' to starts and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+You moved '{0}' to finish after '{1}'starts and the two tasks are linked. As the result, the links cannot be honored. Select one action below to perform
+Task Information
+Delete Task
+Delete Dependency
+Convert
+Save
+Above
+Below
+Child
+Milestone
+To Task
+To Milestone
+Event markers
+Left task label
+Right task label
+Timeline cell
+Are you sure you want to remove dependency link?
+Close
+Table
+Row
+Cell
+Ok
+Cancel
+Size
+Preferred width
+Points
+Percent
+Measure in
+Alignment
+Left
+Center
+Right
+Justify
+Indent from left
+Borders and Shading
+Options
+Specify height
+At least
+Exactly
+Row height is
+Allow row to break across pages
+Repeat as header row at the top of each page
+Vertical alignment
+Top
+Bottom
+Default cell margins
+Default cell spacing
+Allow spacing between cells
+Cell margins
+Same as the whole table
+Borders
+None
+Style
+Width
+Height
+Letter
+Tabloid
+Legal
+Statement
+Executive
+A3
+A4
+A5
+B4
+B5
+Custom size
+Different odd and even
+Different first page
+From edge
+Header
+Footer
+Margins
+Paper
+Layout
+Orientation
+Landscape
+Portrait
+Show page numbers
+Right align page numbers
+Nothing
+Tab leader
+Show levels
+Use hyperlinks instead of page numbers
+Build table of contents from
+Styles
+Available styles
+TOC level
+Heading
+List Paragraph
+Normal
+Outline levels
+Table entry fields
+Modify
+Color
+Setting
+Box
+All
+Custom
+Preview
+Shading
+Fill
+Apply to
+Table Properties
+Cell Options
+Table Options
+Insert Table
+Number of columns
+Number of rows
+Text to display
+Address
+Insert Hyperlink
+Edit Hyperlink
+Insert
+General
+Indentation
+Before text
+Special
+First line
+Hanging
+After text
+By
+Before
+Line spacing
+After
+At
+Multiple
+Spacing
+Define new Multilevel list
+List level
+Choose level to modify
+Level
+Number format
+Number style for this level
+Enter formatting for number
+Start at
+Restart list after
+Position
+Text indent at
+Aligned at
+Follow number with
+Tab character
+Space
+Arabic
+UpRoman
+LowRoman
+UpLetter
+LowLetter
+Number
+Leading zero
+Bullet
+Ordinal
+Ordinal Text
+For East
+No Restart
+Font
+Font style
+Underline style
+Font color
+Effects
+Strikethrough
+Superscript
+Subscript
+Double strikethrough
+Regular
+Bold
+Italic
+Cut
+Copy
+Paste
+Hyperlink
+Open Hyperlink
+Copy Hyperlink
+Remove Hyperlink
+Paragraph
+Merge Cells
+Insert Above
+Insert Below
+Insert Left
+Insert Right
+Delete
+Delete Table
+Delete Row
+Delete Column
+File Name
+Format Type
+Save
+Navigation
+Results
+Replace
+Replace All
+We replaced all
+Find
+No matches
+All Done
+Result
+of
+instances
+with
+Click to follow link
+Continue Numbering
+Bookmark name
+Close
+Restart At
+Properties
+Name
+Style type
+Style based on
+Style for following paragraph
+Formatting
+Numbering and Bullets
+Numbering
+Update Field
+Edit Field
+Bookmark
+Page Setup
+No bookmarks found
+Single-level number format: </br>[PREFIX]%[LEVELNUMBER][SUFFIX]</br> For example, Chapter %1. will display numbering like</br> Chapter 1. Item</br>Chapter 2. Item</br>... </br>Chapter N. Item</br></br>Multilevel number format:</br>[PREFIX]%[LEVELNUMBER][SUFFIX]+[PREFIX]%[LEVELNUMBER][SUFFIX]</br>For example, %1.%2. will display numbering like</br>1.1. Item</br>1.2. Item</br>…</br>1.N. Item
+Format
+Create New Style
+Modify Style
+New
+Bullets
+Use bookmarks
+Table of Contents
+
+
+
+Above
+Below
+Add Row
+Expand All
+Collapse All
+Starts With
+Ends With
+Contains
+Equal
+Not Equal
+Less Than
+Less Than Or Equal
+Greater Than
+Greater Than Or Equal
+Between
+Not Between
+Empty
+Not Empty
+In
+Not In
+Not Contains
+REMOVE
+Select a field
+Select operator
+Remove this condition
+Delete group
+Add Group
+Add Condition
+EDIT
+This field is required
+Summary View
+Other Fields
+AND
+OR
+Enter Value
+Grand Total
+Total
+Value
+No value
+Row
+Column
+Collapse
+Expand
+Drop row here
+Drop column here
+Drop value here
+Drop filter here
+Filter
+Filtered
+Sort
+Filters
+Rows
+Columns
+Values
+Close
+Cancel
+Delete
+Calculated Field
+Create Calculated Field
+Enter the field name
+Error
+Invalid formula.
+Example: ('Sum(Order_Count)' + 'Sum(In_Stock)') * 250
+Add fields and edit formula here.
+Calculated field cannot be place in any other region except value axis.
+Alert
+Warning
+OK
+Search
+Drag
+Remove
+All Fields
+Formula
+Add to Row
+Add to Column
+Add to Value
+Add to Filter
+No records to display
+A field already exists in this name. Please enter a different name.
+A calculation field already exists in this name. Do you want to replace it?
+No matches
+Summaries values by
+Edit
+Clear
+Drag and drop fields to formula
+Drag field to formula
+Clear
+by
+All
+Multiple items
+Member
+Label
+Date
+Enter value
+Enter date
+Before
+Before Or Equal To
+After
+After Or Equal To
+Show the items for which the label
+Show the items for which the date
+Show the items for which
+Equals
+Does Not Equal
+Begins With
+Does Not Begin With
+Ends With
+Does Not End With
+Contains
+Does Not Contain
+Greater Than
+Greater Than Or Equal To
+Less Than
+Less Than Or Equal To
+Between
+Not Between
+and
+Sum
+Count
+Distinct Count
+Product
+Avg
+Min
+Sample Var
+Population Var
+Running Totals
+Max
+Index
+Sample StDev
+Population StDev
+% of Row Total
+% of Parent Total
+% of Parent Column Total
+% of Parent Row Total
+Difference From
+% of Difference From
+% of Grand Total
+% of Column Total
+Not Equals
+All Values
+Conditional Formatting
+APPLY
+Add Condition
+Format
+Value field settings
+Base field :
+Base item :
+Summarize values by :
+Field name :
+Field caption :
+e.g:
+ more items. Search to refine further.
+Details
+Manage Records
+Years
+Quarters
+Months
+Days
+Hours
+Minutes
+Seconds
+Save a report
+Create a new report
+Load
+Save as current report
+Rename a current report
+Delete a current report
+Export
+Sub totals
+Grand totals
+Report Name :
+PDF
+Excel
+CSV
+PNG
+JPEG
+SVG
+MDX Query
+Show sub totals
+Do not show sub totals
+Show sub totals rows only
+Show sub totals columns only
+Show grand totals
+Do not show grand totals
+Show grand totals rows only
+Show grand totals columns only
+Show fieldlist
+Show table
+Conditional formatting
+Chart
+Please enter vaild report name!!!
+Report list
+Are you sure want to delete this report?
+No reports found!!
+Bar
+Line
+Area
+Scatter
+Polar
+of
+No format found!!!
+Enter a value
+Want to save changes to report?
+Enter a report name
+Qtr
+null
+undefined
+Out of Range
+The field you are moving cannot be placed in that area of the report
+More...
+Aggregate
+Drill Through
+Ascending
+Descending
+Number
+Currency
+Percentage
+Format Type
+Currency Symbol
+Symbol Position
+Left
+Right
+Grouping
+True
+False
+Decimal Places
+Number Formatting
+Field Type
+Format String
+Expression
+Enter custom format string
+Parent Hierarchy
+Example: [Measures].[Order Quantity] + ([Measures].[Order Quantity] * 0.10)
+Percent
+Custom
+Measure
+Dimension
+Standard
+(Blank)
+Drag and drop fields to create an expression. And, if you want to edit the existing the calculated fields! Then you can achieve it by simply selecting the field under 'Calculated Members'.
+Quarter Year
+Field Name
+Cannot show the raw items of calculated fields.
+Field Caption
+Copy
+Default report
+Custom Format
+Invalid Format.
+Group
+Ungroup
+Cannot group that selection.
+Enter the caption to display in header
+Enter the caption for group field
+Selected items
+Field caption
+Group name
+Starting at
+Ending at
+Interval by
+Select groups
+Pivot Field List
+Field List
+Drop filter here
+Drop column here
+Drop row here
+Drop value here
+Add field here
+Choose field
+Drag fields between axes below:
+add
+Drag
+Filter
+Filtered
+Sort
+Remove
+Filters
+Rows
+Columns
+Values
+Calculated Field
+Create Calculated Field
+Enter the field name
+Error
+Invalid formula.
+Example: ('Sum(Order_Count)' + 'Sum(In_Stock)'') * 250
+Add fields and edit formula here.
+Calculated field cannot be place in any other region except value axis.
+Search
+Close
+Cancel
+Delete
+Alert
+Warning
+OK
+All Fields
+Formula
+A field already exists in this name. Please enter a different name.
+A calculation field already exists in this name. Do you want to replace it?
+No matches
+Summaries values by
+Edit
+Clear
+Drag and drop fields to formula
+Drag field to formula
+Clear
+by
+Enter value
+Enter date
+All
+Multiple items
+Equals
+Does Not Equal
+Begins With
+Does Not Begin With
+Ends With
+Does Not End With
+Contains
+Does Not Contain
+Greater Than
+Greater Than Or Equal To
+Less Than
+Less Than Or Equal To
+Between
+Not Between
+Before
+Before Or Equal To
+After
+After Or Equal To
+Member
+Label
+Date
+Value
+Show the items for which the label
+Show the items for which the date
+Show the items for which
+and
+Sum
+Count
+Distinct Count
+Product
+Avg
+Min
+Max
+Index
+Sample StDev
+Population StDev
+Sample Var
+Population Var
+Running Totals
+Difference From
+% of Difference From
+% of Grand Total
+% of Column Total
+% of Row Total
+% of Parent Total
+% of Parent Column Total
+% of Parent Row Total
+Years
+Quarters
+Months
+Days
+Hours
+Minutes
+Seconds
+APPLY
+Value field settings
+Field name :
+Field caption :
+Summarize values by :
+Base field :
+Base item :
+e.g:
+ more items. Search to refine further.
+Defer Layout Update
+null
+undefined
+Out of Range
+The field you are moving cannot be placed in that area of the report
+More...
+Field Type
+Parent Hierarchy
+Format String
+Expression
+Example: [Measures].[Order Quantity] + ([Measures].[Order Quantity] * 0.10)
+Enter custom format string
+Measure
+Dimension
+Standard
+Currency
+Percent
+Custom
+(Blank)
+Drag and drop fields to create an expression. And, if you want to edit the existing the calculated fields! You can achieve it by simply selecting the field under 'Calculated Members'.
+Field Name
+Quarter Year
+Field Caption
+Copy
+Group
+Day
+Week
+Work Week
+Month
+Agenda
+Week Agenda
+Work Week Agenda
+Month Agenda
+Today
+No events
+There are no events scheduled on this day.
+All day
+Start
+End
+more
+Close
+Cancel
+(No Title)
+Delete
+This Event
+Delete Multiple Events
+Items selected
+Entire Series
+Edit
+Entire Series
+This Event
+Create
+Subject
+Add title
+More Details
+Save
+How would you like to change the appointment in the series?
+Are you sure you want to delete this event?
+Are you sure you want to delete the selected events?
+New Event
+Title
+Location
+Description
+Timezone
+Start Timezone
+End Timezone
+Repeat
+Save
+Cancel
+Delete
+Recurrence
+The recurrence pattern is not valid.
+Do you want to cancel the changes made to specific instances of this series and match it to the whole series again?
+The duration of the event must be shorter than how frequently it occurs. Shorten the duration, or change the recurrence pattern in the recurrence event editor.
+Two occurrences of the same event cannot occur on the same day.
+Edit Recurrence
+Repeats
+Alert
+The selected end date occurs before the start date.
+The entered date value is invalid.
+Events cannot be scheduled within the blocked time range.
+Ok
+Yes
+No
+Occurrence
+Series
+Previous
+Next
+Timeline Day
+Timeline Week
+Timeline Work Week
+Timeline Month
+Timeline Year
+Following Events
+Delete Event
+Edit Event
+Begin From
+End At
+None
+Daily
+Weekly
+Monthly
+Month
+Yearly
+Never
+Until
+Count
+First
+Second
+Third
+Fourth
+Last
+Repeat
+Repeat every
+Repeat On
+End
+Day
+Day(s)
+Week(s)
+Month(s)
+Year(s)
+every
+time(s)
+on
+until
+Repeats
+day(s)
+week(s)
+month(s)
+year(s)
+Month Week
+Month Position
+Month Expander
+Year Expander
+Repeat Interval
+Close
+No Records Found
+The Request Failed
++${count} more..
+Select All
+Unselect All
+${count} selected
+No Records Found
+The Request Failed
+No Records Found
+The Request Failed
+No Records Found
+The Request Failed
+No Records Found
+The Request Failed
++${count} more..
+Select All
+Unselect All
+${count} selected
+No Records Found
+The Request Failed
+Select All
+Unselect All
+Move Up
+Move Down
+Move To
+Move From
+Move All To
+Move All From
+Apply
+Cancel
+Switch Mode
+Browse...
+Clear
+Upload
+Or drop files here
+File size is too large
+File size is too small
+File type is not allowed
+File failed to upload
+File uploaded successfully
+File removed successfully
+Unable to remove file
+Uploading
+Ready to upload
+Abort
+Remove
+Cancel
+Delete file
+File upload paused
+Pause
+Resume
+Retry
+File upload canceled
+Increment value
+Decrement value
+Increase
+Decrease
+This field is required.
+Please enter a valid email address.
+Please enter a valid URL.
+Please enter a valid date.
+Please enter a valid date ( ISO ).
+Please enter valid card number
+Please enter a valid number.
+Please enter only digits.
+Please enter no more than {0} characters.
+Please enter at least {0} characters.
+Please enter a value between {0} and {1} characters long.
+Please enter a value between {0} and {1}.
+Please enter a value less than or equal to {0}.
+Please enter a value greater than or equal to {0}.
+Please enter a correct value.
+Please enter a valid phone number.
+Please enter a correct pattern value.
+Please enter the valid match text
+New folder
+Upload
+Delete
+Rename
+Download
+Cut
+Copy
+Paste
+Sort by
+Refresh
+item selected
+items selected
+View
+Details
+Select all
+Open
+New folder
+Upload
+Delete
+Rename
+Download
+Cut
+Copy
+Paste
+Sort by
+Refresh
+Clear selection
+View
+Details
+Select all
+Name
+Size
+Modified
+Date created
+Path
+Modified
+Created
+Location
+Type
+Permission
+Ascending
+Descending
+Large icons
+Details
+Search
+OK
+Cancel
+Yes
+No
+Create
+Save
+Folder
+Enter your folder name
+Rename
+Enter your new name
+Rename Confirmation
+If you change a file name extension, the file might become unstable. Are you sure you want to change it?
+Delete File
+Are you sure you want to delete this file?
+Delete Multiple Files
+Are you sure you want to delete these {0} files?
+File/Folder exists
+{0} already exists. Do you want to rename and paste?
+Upload Files
+Error
+The file or folder name cannot be empty.
+The file or folder name {0} contains invalid characters. Please use a different name. Valid file or folder names cannot end with a dot or space, and cannot contain any of the following characters: \/:*?"<>|
+A file or folder with the name {0} already exists.
+Cannot rename {0} to {1}: destination already exists.
+This folder is empty
+Drag files here to upload
+No results found
+Try with different keywords
+No results found
+Try with different filter
+The destination folder is the subfolder of the source folder.
+Access Denied
+You don't have permission to access this folder.
+File Already Exists
+A file with this name already exists in this folder. What would you like to do?
+Keep both
+Replace
+Skip
+Do this for all current items
+No records to display
+true
+false
+Invalid Filter Data
+Drag a column header here to group its column
+Click here to ungroup
+Grouping is disabled for this column
+"s filter bar cell
+DataSource must not be empty at initial load since columns are generated from dataSource in AutoGenerate Column Grid
+Add
+Edit
+Cancel
+Update
+Delete
+Print
+PDF Export
+Excel Export
+Word Export
+CSV Export
+Search
+Columns
+Save
+item
+items
+No records selected for edit operation
+No records selected for delete operation
+Save
+OK
+Cancel
+Details of 
+Add New Record
+Are you sure you want to save changes?
+Unsaved changes will be lost. Are you sure you want to continue?
+Are you sure you want to Delete Record?
+Are you sure you want to Cancel the changes?
+Choose Column
+search columns
+No Matches Found
+Filter
+Clear
+Starts With
+Ends With
+Contains
+Equal
+Not Equal
+Less Than
+Less Than Or Equal
+Greater Than
+Greater Than Or Equal
+Choose a Date
+Enter the value
+Copy
+Group by this column
+Ungroup by this column
+Auto Fit all columns
+Auto Fit this column
+Export
+First Page
+Last Page
+Previous Page
+Next Page
+Sort Ascending
+Sort Descending
+Edit Record
+Delete Record
+Filter
+Select All
+Blanks
+True
+False
+No Matches Found
+Clear Filter
+Number Filters
+Text Filters
+Date Filters
+DateTime Filters
+Match Case
+Between
+Custom Filter
+Enter the value
+Choose a date
+AND
+OR
+Show rows where:
+{0} of {1} pages
+({0} items)
+Go to first page
+Go to last page
+Go to next page
+Go to previous page
+Go to next pager
+Go to previous pager
+Items per page
+Items
+All
+
+Cut
+Copy
+Paste
+Paste Special
+All
+Values
+Formats
+Font
+Font Size
+Bold
+Italic
+Underline
+Strikethrough
+Text Color
+Fill Color
+Horizontal Alignment
+Align Left
+Center
+Align Right
+Vertical Alignment
+Align Top
+Align Middle
+Align Bottom
+Insert Function
+Insert
+Delete
+Rename
+Hide
+Unhide
+Name Box
+Show Headers
+Hide Headers
+Show Gridlines
+Hide Gridlines
+Add Sheet
+List All Sheets
+Full Screen
+Collapse Toolbar
+Expand Toolbar
+Collapse Formula Bar
+Expand Formula Bar
+File
+Home
+Formulas
+View
+New
+Open
+Save As
+Microsoft Excel
+Microsoft Excel 97-2003
+Comma-separated values
+Formula Bar
+Sort
+Ascending
+Descending
+Custom Sort
+Add Column
+Data contains header
+Case sensitive
+Sort by
+Then by
+Select a column
+All sort criteria must have a column specified. Check the selected sort criteria and try again.
+ is being sorted by values more than once. Delete the duplicate sort criteria and try again.
+Select a cell or range inside the used range and try again.
+Ok
+Close
+Cancel
+Apply
+More Colors
+Standard Colors
+General
+Number
+Currency
+Accounting
+Short Date
+Long Date
+Time
+Percentage
+Fraction
+Scientific
+Text
+Number Format
+Enter value or Formula
+You can't paste this here, because the copy area and paste area aren't in the same size. Please try pasting in a different range.
+Are you sure you want to destroy the current workbook without saving and create a new workbook?
+Sheet name contains invalid character.
+Sheet name cannot be empty.
+Sheet name already exists. Please enter another name.
+Are you sure you want to delete this sheet?
+A Workbook must contain at least one visible worksheet.
+Pick a category
+Description
+Unsupported File
+Invalid URL
+Adds a series of numbers and/or cells.
+Adds the cells based on specified condition.
+Adds the cells based on specified conditions.
+Returns the value of a number without its sign.
+Returns a random number between 0 and 1.
+Returns a random integer based on specified values.
+Rounds a number down to the nearest multiple of a given factor.
+Rounds a number up to the nearest multiple of a given factor.
+Multiplies a series of numbers and/or cells.
+Calculates average for the series of numbers and/or cells excluding text.
+Calculates average for the cells based on specified criterion.
+Calculates average for the cells based on specified conditions.
+Calculates the average for the cells evaluating TRUE as 1, text and FALSE as 0.
+Counts the cells that contain numeric values in a range.
+Counts the cells based on specified condition.
+Counts the cells based on specified conditions.
+Counts the cells that contains values in a range.
+Returns the smallest number of the given arguments.
+Returns the largest number of the given arguments.
+Returns the date based on given year, month, and day.
+Returns the day from the given date.
+Returns the number of days between two dates.
+Returns value based on the given expression.
+Returns value based on the given multiple expressions.
+Returns TRUE if all the arguments are TRUE, otherwise returns FALSE.
+Returns TRUE if any of the arguments are TRUE, otherwise returns FALSE.
+Returns value if no error found else it will return specified value.
+Returns a value from list of values, based on index number.
+Returns a value of the cell in a given range based on row and column number.
+Returns the position of a string within another string, which is case sensitive
+Combines two or more strings together.
+Concatenates a list or a range of text strings.
+Returns subtotal for a range using the given function number.
+Converts degrees into radians.
+Returns the relative position of a specified value in given range.
+This name already exists, try different name.
+When a formula refers to one or more circular references, this may result in an incorrect calculation.
+Show rows where:
+OR
+AND
+Choose a date
+Enter the value
+Custom Filter
+Between
+Match Case
+DateTime Filters
+Undo
+Redo
+Date Filters
+Text Filters
+Number Filters
+Clear Filter
+No Matches Found
+False
+True
+Blanks
+Select All
+Greater Than Or Equal
+Greater Than
+Less Than Or Equal
+Less Than
+Not Equal
+Equal
+Contains
+Ends With
+Starts With
+Clear
+Filter
+Cancel
+OK
+Search
+Save
+Cancel
+Loading...
+Click to edit
+Click to edit
+Double click to edit
+Copy
+Cut
+Paste
+Undo
+Redo
+Select All
+Grouping
+Group
+Ungroup
+Order
+Bring To Front
+Move Forward
+Send To Back
+Send Backward
+Today
+Today
+Choose a date
+Choose a date range
+Start Date
+End Date
+Apply
+Cancel
+Selected Days
+Days
+Custom Range
+Choose a time
+Today
+Choose a date and time
+Alignments
+Align Left
+Align Center
+Align Right
+Align Justify
+Font Name
+Font Size
+Font Color
+Background Color
+Bold
+Italic
+Underline
+Strikethrough
+Clear Format
+Clear All
+Cut
+Copy
+Paste
+Bulleted List
+Numbered List
+Increase Indent
+Decrease Indent
+Undo
+Redo
+Superscript
+Subscript
+Insert Hyperlink
+Open Link
+Edit Link
+Remove Link
+Insert Image
+Replace
+Align
+Image Caption
+Remove
+Insert Link
+Display
+Alternative Text
+Change Size
+Maximize
+Maximize
+Minimize
+Lower Case
+Upper Case
+Print
+Formats
+Code View
+Preview
+ViewSide
+Insert Code
+Display Text
+Title
+Web Address
+Enter a title
+http://example.com
+Open Link in New Window
+Insert Link
+Insert
+Cancel
+Update
+Insert Image
+You can also provide a link from the web
+Please provide a URL for your image
+Drop image here or browse to upload
+Click here to upload
+Alternate Text
+Alternative Text
+Browse
+http://example.com/image.png
+Caption
+Image Size
+Height
+Width
+Enter Text
+Insert Table
+Insert Table
+Width
+Cell Padding
+Cell Spacing
+Number of columns
+Number of rows
+Table Rows
+Table Columns
+Table Cell Horizontal Align
+Table Cell Vertical Align
+Create Table
+Remove Table
+Table Header
+Table Remove
+Table Cell Background
+Table Edit Properties
+Styles
+Insert Column Left
+Insert Column Right
+Delete Column
+Insert Row Before
+Insert Row After
+Delete Row
+Edit Table
+Heading
+Col
+Insert Link
+Edit Image
+Align Left
+Align Center
+Align Right
+Align Justify
+Inline
+Break
+Insert row before
+Insert row after
+Delete row
+Insert column left
+Insert column right
+Delete column
+Align Top
+Align Middle
+Align Bottom
+Dashed Borders
+Alternate Rows
+Paste Format
+Choose the formatting action
+Plain Text
+Clean
+Keep
+OK
+Cancel
+alignments
+justifyLeft
+justifyCenter
+justifyRight
+justifyFull
+fontName
+fontSize
+fontColor
+backgroundColor
+clearFormat
+clearAll
+unorderedList
+orderedList
+createLink
+openLink
+editLink
+removeLink
+openLink
+editLink
+removeLink
+image
+replace
+align
+caption
+remove
+insertLink
+display
+altText
+dimension
+fullscreen
+maximize
+minimize
+lowerCase
+upperCase
+print
+formats
+sourcecode
+preview
+viewside
+insertCode
+Align Left
+Align Center
+Align Right
+Align Justify
+Font Name
+Font Size
+Font Color
+Background Color
+bold
+italic
+underline
+strikethrough
+cut
+copy
+paste
+indent
+outdent
+undo
+redo
+superscript
+subscript
+Insert Hyperlink
+Open Link
+Edit Link
+Remove Link
+Insert Link
+Alternative Text
+Lower Case
+Upper Case
+Insert Code
+Display Text
+Tooltip
+Web Address
+http://example.com
+Open Link in New Window
+Insert Link
+Insert
+Cancel
+Update
+Insert Image
+You can also provide a link from the web
+Please provide a URL for your image
+Drop image here or browse to upload
+Click here to upload
+Alternate Text
+Alternative Text
+Browse
+http://example.com/image.png
+Caption
+Image Size
+Height
+Width
+Enter Text
+Click to edit
+Save
+Cancel
+Zoom
+ZoomIn
+ZoomOut
+Reset
+Pan
+Reset Zoom
+No Records Found
+The Request Failed
+Zoom
+ZoomIn
+ZoomOut
+Reset
+Pan
+Reset Zoom
+PDF Viewer
+Cancel
+Download file
+Download
+This document is password protected. Please enter a password.
+File Corrupted
+The file is corrupted and cannot be opened.
+Fit Page
+Fit Width
+Automatic
+Show first page
+Incorrect Password. Please try again.
+Show next page
+OK
+Open file
+Current page number
+Show previous page
+Show last page
+Zoom
+Zoom in
+Zoom out
+Page thumbnails
+Bookmarks
+Print file
+Password Required
+Copy
+Text selection tool
+Pan mode
+Find text
+Find in document
+Match case
+Apply
+Go to Page
+Viewer has finished searching the document. No more matches were found
+No Text Found
+Undo
+Redo
+Add or Edit annotations
+Highlight Text
+Underline Text
+Strikethrough Text
+Delete annotation
+Opacity
+Change Color
+Change Opacity
+Highlight
+Underline
+Strike through
+Web-service is not listening. PDF Viewer depends on web-service for all it's features. Please start the web service to continue.
+Open
+First Page
+Previous Page
+Next Page
+Last Page
+Zoom In
+Zoom Out
+Selection
+Pan
+Print
+Search
+Edit Annotation
+Line Thickness
+Line Properties
+Start Arrow
+End Arrow
+Line Style
+Fill Color
+Line Color
+None
+Open
+Closed
+Round
+Square
+Diamond
+Cut
+Paste
+Delete
+Properties
+Add Stamp
+Add Shapes
+Change Stroke Color
+Change Border Thickness
+Add Line
+Add Arrow
+Add Rectangle
+Add Circle
+Add Polygon
+Add Comments
+Comments
+No Comments Yet
+Accepted
+Completed
+Cancelled
+Rejected
+Leader Length
+Scale Ratio
+Calibrate
+Calibrate Distance
+Calibrate Perimeter
+Calibrate Area
+Calibrate Radius
+Calibrate Volume
+Table
+Row
+Cell
+Ok
+Cancel
+Size
+Preferred width
+Points
+Percent
+Measure in
+Alignment
+Left
+Center
+Right
+Justify
+Indent from left
+Borders and Shading
+Options
+Specify height
+At least
+Exactly
+Row height is
+Allow row to break across pages
+Repeat as header row at the top of each page
+Vertical alignment
+Top
+Bottom
+Default cell margins
+Default cell spacing
+Allow spacing between cells
+Cell margins
+Same as the whole table
+Borders
+None
+Style
+Width
+Height
+Letter
+Tabloid
+Legal
+Statement
+Executive
+A3
+A4
+A5
+B4
+B5
+Custom size
+Different odd and even
+Different first page
+From edge
+Header
+Footer
+Margins
+Paper
+Layout
+Orientation
+Landscape
+Portrait
+Show page numbers
+Right align page numbers
+Nothing
+Tab leader
+Show levels
+Use hyperlinks instead of page numbers
+Build table of contents from
+Styles
+Available styles
+TOC level
+Heading
+Heading 1
+Heading 2
+Heading 3
+Heading 4
+Heading 5
+Heading 6
+List Paragraph
+Normal
+Outline levels
+Table entry fields
+Modify
+Color
+Setting
+Box
+All
+Custom
+Preview
+Shading
+Fill
+Apply to
+Table Properties
+Cell Options
+Table Options
+Insert Table
+Number of columns
+Number of rows
+Text to display
+Address
+Insert Hyperlink
+Edit Hyperlink
+Insert
+General
+Indentation
+Before text
+Special
+First line
+Hanging
+After text
+By
+Before
+Line spacing
+After
+At
+Multiple
+Spacing
+Define new Multilevel list
+List level
+Choose level to modify
+Level
+Number format
+Number style for this level
+Enter formatting for number
+Start at
+Restart list after
+Position
+Text indent at
+Aligned at
+Follow number with
+Tab character
+Space
+Arabic
+UpRoman
+LowRoman
+UpLetter
+LowLetter
+Number
+Leading zero
+Bullet
+Ordinal
+Ordinal Text
+For East
+No Restart
+Font
+Font style
+Underline style
+Font color
+Effects
+Strikethrough
+Superscript
+Subscript
+Double strikethrough
+Regular
+Bold
+Italic
+Cut
+Copy
+Paste
+Hyperlink
+Open Hyperlink
+Copy Hyperlink
+Remove Hyperlink
+Paragraph
+Linked(Paragraph and Character)
+Character
+Merge Cells
+Insert Above
+Insert Below
+Insert Left
+Insert Right
+Delete
+Delete Table
+Delete Row
+Delete Column
+File Name
+Format Type
+Save
+Navigation
+Results
+Replace
+Replace All
+We replaced all
+Find
+No matches
+All Done
+Result
+of
+instances
+with
+Click to follow link
+Continue Numbering
+Bookmark name
+Close
+Restart At
+Properties
+Name
+Style type
+Style based on
+Style for following paragraph
+Formatting
+Numbering and Bullets
+Numbering
+Update Field
+Edit Field
+Bookmark
+Page Setup
+No bookmarks found
+Single-level number format: </br>[PREFIX]%[LEVELNUMBER][SUFFIX]</br> For example, 'Chapter %1.' will display numbering like</br>Chapter 1. Item</br>Chapter 2. Item</br>… </br>Chapter N. Item</br> </br>Multilevel number format:</br>[PREFIX]%[LEVELNUMBER][SUFFIX]+[PREFIX]%[LEVELNUMBER][SUFFIX]</br>For example, '%1.%2.' will display numbering like</br>1.1. Item</br>1.2. Item</br>…</br>1.N. Item
+Format
+Create New Style
+Modify Style
+New
+Bullets
+Use bookmarks
+Table of Contents
+AutoFit
+AutoFit to Contents
+AutoFit to Window
+Fixed Column Width
+Reset
+Match case
+Whole words
+Add
+Go To
+Search for
+Replace with
+TOC 1
+TOC 2
+TOC 3
+TOC 4
+TOC 5
+TOC 6
+TOC 7
+TOC 8
+TOC 9
+Right-to-left
+Left-to-right
+Direction
+Table direction
+Indent from right
+Don't add space between the paragraphs of the same styles
+The password don't match
+Restrict Editing
+Formatting restrictions
+Allow formatting
+Editing restrictions
+Read only
+Exceptions (optional)
+Select parts of the document and choose users who are allowed to freely edit them.
+Everyone
+More users
+Add Users
+Yes, Start Enforcing Protection
+Start Enforcing Protection
+Enter User
+Users
+Enter new password
+Reenter new password to confirm
+Your permissions
+This document is protected from unintentional editing.You may edit in this region.
+You may format text only with certain styles.
+Stop Protection
+Password
+Spelling Editor
+Spelling
+Spell Check
+Underline errors
+Ignore
+Ignore All
+Add to Dictionary
+Change
+Change All
+Suggestions
+The password is incorrect
+Error in establishing connection with web server
+Highlight the regions I can edit
+Show All Regions I Can Edit
+Find Next Region I Can Edit
+Keep source formatting
+Match destination formatting
+Text only
+Comments
+Type your comment
+Post
+Reply
+New Comment
+Edit
+Resolve
+Reopen
+No comments in this document
+more
+Type your comment here
+Next Comment
+Previous Comment
+Un-posted comments
+Added comments not posted. If you continue, that comment will be discarded.
+No Heading Found!
+This document has no headings. Please add headings and try again.
+New
+Open
+Undo
+Redo
+Image
+Table
+Link
+Bookmark
+Table of Contents
+HEADING - - - - 1
+HEADING - - - - 2
+HEADING - - - - 3
+Header
+Footer
+Page Setup
+Page Number
+Break
+Find
+Local Clipboard
+Restrict Editing
+Upload from computer
+By URL
+Page Break
+Section Break
+Header & Footer
+Options
+Levels
+Different First Page
+Different header and footer for odd and even pages.
+Different Odd & Even Pages
+Different header and footer for first page.
+Position
+Header from Top
+Footer from Bottom
+Distance from top of the page to top of the header.
+Distance from bottom of the page to bottom of the footer.
+Aspect ratio
+W
+H
+Width
+Height
+Text
+Paragraph
+Fill
+Fill color
+Border Style
+Outside borders
+All borders
+Inside borders
+Left border
+Inside vertical border
+Right border
+Top border
+Inside horizontal border
+Bottom border
+Border color
+Border width
+Cell
+Merge cells
+Insert / Delete
+Insert columns to the left
+Insert columns to the right
+Insert rows above
+Insert rows below
+Delete rows
+Delete columns
+Cell Margin
+Top
+Bottom
+Left
+Right
+Align Text
+Align top
+Align bottom
+Align center
+Number of heading or outline levels to be shown in table of contents.
+Show page numbers
+Show page numbers in table of contents.
+Right align page numbers
+Right align page numbers in table of contents.
+Use hyperlinks
+Use hyperlinks instead of page numbers.
+Font
+Font Size
+Font color
+Text highlight color
+Clear all formatting
+Bold (Ctrl+B)
+Italic (Ctrl+I)
+Underline (Ctrl+U)
+Strikethrough
+Superscript (Ctrl+Shift++)
+Subscript (Ctrl+=)
+Align left (Ctrl+L)
+Center (Ctrl+E)
+Align right (Ctrl+R)
+Justify (Ctrl+J)
+Decrease indent
+Increase indent
+Line spacing
+Bullets
+Numbering
+Styles
+Manage Styles
+Page
+of
+Fit one page
+Spell Check
+Underline errors
+Fit page width
+Update
+Cancel
+Insert
+No Border
+Create a new document.
+Open a document.
+Undo the last operation (Ctrl+Z).
+Redo the last operation (Ctrl+Y).
+Insert inline picture from a file.
+Insert a table into the document
+Create a link in your document for quick access to web pages and files (Ctrl+K).
+Insert a bookmark in a specific place in this document.
+Provide an overview of your document by adding a table of contents.
+Add or edit the header.
+Add or edit the footer.
+Open the page setup dialog.
+Add page numbers.
+Find text in the document (Ctrl+F).
+Toggle between the internal clipboard and system clipboard.</br>Access to system clipboard through script is denied due to browsers security policy. Instead, </br> 1. You can enable internal clipboard to cut, copy and paste within the component.</br> 2. You can use the keyboard shortcuts (Ctrl+X, Ctrl+C and Ctrl+V) to cut, copy and paste with system clipboard.
+The current page number in the document. Click or tap to navigate specific page.
+Read only
+Protections
+Error in establishing connection with web server
+Single
+Double
+New comment
+Comments
+Close
+items
+Min
+Max
